@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28405#Notes-and-Queries-Number-223-February-4-1854--13-A-Medium-of-Inter-communication-for-Literary_
 gutenberg_bookshelf: Notes and Queries
 gutenberg_issued: '2009-03-25'
 gutenberg_type: Text
